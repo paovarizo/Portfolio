@@ -85,6 +85,7 @@ button:focus {
   transition: all 0.3s ease-out 0s !important;
   padding: 0.3rem 2rem !important;
   font-size: 1.2rem !important;
+  background-color: white;
 }
 
 .navbar-toggler {
@@ -140,7 +141,7 @@ button:focus {
 
 @media (max-width: 767px) {
   .navbar {
-    padding: 1rem 2rem !important;
+    padding: 0 !important;
     font-size: 1.4rem !important;
     background-color: black #181a27 !important;
   }
